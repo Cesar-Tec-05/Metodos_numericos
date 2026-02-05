@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/home/cesar/Escuela /Programacion/Metodos_numericos/.venv/bin/python",
+    "code-runner.executorMap": {
+        "python": "\"/home/cesar/Escuela /Programacion/Metodos_numericos/.venv/bin/python\" -u"
+    }
+}
